@@ -64,16 +64,16 @@
         },
         {
             "name": "backpack/crud",
-            "version": "4.1.56",
+            "version": "4.1.60",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Laravel-Backpack/CRUD.git",
-                "reference": "13157e650fb0557eaad8e31b40b3963aeccf8d1d"
+                "reference": "bec5cfa11f0cd0712c79256748acf5850080c0ee"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Laravel-Backpack/CRUD/zipball/13157e650fb0557eaad8e31b40b3963aeccf8d1d",
-                "reference": "13157e650fb0557eaad8e31b40b3963aeccf8d1d",
+                "url": "https://api.github.com/repos/Laravel-Backpack/CRUD/zipball/bec5cfa11f0cd0712c79256748acf5850080c0ee",
+                "reference": "bec5cfa11f0cd0712c79256748acf5850080c0ee",
                 "shasum": ""
             },
             "require": {
@@ -151,9 +151,9 @@
             ],
             "support": {
                 "issues": "https://github.com/Laravel-Backpack/CRUD/issues",
-                "source": "https://github.com/Laravel-Backpack/CRUD/tree/4.1.56"
+                "source": "https://github.com/Laravel-Backpack/CRUD/tree/4.1.60"
             },
-            "time": "2021-10-20T07:33:20+00:00"
+            "time": "2021-11-04T09:18:49+00:00"
         },
         {
             "name": "brick/math",
